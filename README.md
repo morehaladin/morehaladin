@@ -69,7 +69,7 @@ I automate everything. I love me some bash & python for some quick juice.
 </p>
 
 ## Other GitHub Accounts
-- [x] [morehaladin](https://github.com/morehaladin)
+- [x] [morehwachege](https://github.com/morehwachege)
 
 - [x] [mildVenom](https://github.com/mildVenom)
 
